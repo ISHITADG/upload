@@ -1,5 +1,5 @@
 # LOGS FOR CASE 2
-## INTERRUPT DETIALS NDN1: 2/10 container clients,  NDN2: 1/10 container clients, IP: 3/10 client instances
+## FAILED NDN1: 2/10 container clients,  NDN2: 1/10 container clients, IP: 3/10 client instances
 ### FAILED IP CLIENT LOGS
 #### SERVER: 
 IP tcpdump pcap trace </br>
